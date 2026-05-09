@@ -1,0 +1,11 @@
+# 忽略运行爬虫时生成的网页文件和图片
+*.html
+*.jpg
+*.png
+
+# 忽略 Python 运行时产生的缓存文件
+__pycache__/
+*.py[cod]
+
+# 忽略 PyCharm 编辑器的配置文件
+.idea/
